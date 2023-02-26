@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3A4A900529AC060900A748AE /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A4A900429AC060900A748AE /* TableViewController.swift */; };
 		75DECC7B29259670002E2A79 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75DECC7A29259670002E2A79 /* AppDelegate.swift */; };
 		75DECC7D29259670002E2A79 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75DECC7C29259670002E2A79 /* SceneDelegate.swift */; };
 		75DECC7F29259670002E2A79 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75DECC7E29259670002E2A79 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3A4A900429AC060900A748AE /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 		75DECC7729259670002E2A79 /* CoreDataTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoreDataTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		75DECC7A29259670002E2A79 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		75DECC7C29259670002E2A79 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				75DECC8829259671002E2A79 /* LaunchScreen.storyboard */,
 				75DECC8B29259671002E2A79 /* Info.plist */,
 				75DECC8329259670002E2A79 /* CoreDataTest.xcdatamodeld */,
+				3A4A900429AC060900A748AE /* TableViewController.swift */,
 			);
 			path = CoreDataTest;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 				75DECC8529259670002E2A79 /* CoreDataTest.xcdatamodeld in Sources */,
 				75DECC7F29259670002E2A79 /* ViewController.swift in Sources */,
 				75DECC7B29259670002E2A79 /* AppDelegate.swift in Sources */,
+				3A4A900529AC060900A748AE /* TableViewController.swift in Sources */,
 				75DECC7D29259670002E2A79 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
